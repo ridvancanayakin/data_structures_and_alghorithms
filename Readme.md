@@ -1,0 +1,1 @@
+Patika.dev sitesinden almış olduğum veri yapıları ve algoritmalar dersi projeleri için açılmış repository
