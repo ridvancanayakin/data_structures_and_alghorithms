@@ -1,1 +1,1 @@
-Patika.dev sitesinden almış olduğum veri yapıları ve algoritmalar dersi projeleri için açılmış repository
+This repository is created for homeworks of data structures and alghorithms class, given by Patik.dev
